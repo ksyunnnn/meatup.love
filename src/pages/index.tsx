@@ -22,6 +22,8 @@ const Icon = () => (
 </svg>
 )
 
+const s = ""
+
 const Home: NextPage = () => {
   return (
     <>
