@@ -4,4 +4,4 @@ jobs:
   Hello-world:
     runs-on: ubuntu-latest
     steps:
-    - run: yarn lint
+    - run: yarn run lint
