@@ -1,7 +1,7 @@
 name: Hello world!
- on: push
- jobs:
-   Hello-world:
-     runs-on: ubuntu-latest
-     steps:
-       - run: echo "Hello world! 🎉"
+on: puth
+jobs:
+  Hello-world:
+    runs-on: ubuntu-latest
+    steps:
+    - run: echo "Hello world! 🎉"
